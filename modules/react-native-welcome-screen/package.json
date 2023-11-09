@@ -1,0 +1,8 @@
+{
+  "name": "@modules/welcome-screen",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "main": "index.js",
+  "author": "SwiftPlanner Enterprise"
+}
